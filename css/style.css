@@ -1,0 +1,21 @@
+
+.img {
+  display: block;
+  padding: 50px 50px;
+  float: right;
+}
+
+
+.img img {
+  width: 200px
+}
+
+.ipsum {
+  padding: 10px 30px;
+}
+
+.poop {
+  font-family: cursive;
+  padding: 40px 120px 0 120px;
+  text-align: center;
+}
