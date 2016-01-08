@@ -7,7 +7,8 @@
 
 
 .img img {
-  width: 200px
+  max-width: 200px;
+  width: 80%;
 }
 
 .ipsum {
@@ -15,7 +16,14 @@
 }
 
 .poop {
+  padding-top: 60px;
+  background-image: url("snare_right.png");
+  background-repeat: no-repeat;
+  background-position: right top;
   font-family: cursive;
-  padding: 40px 120px 0 120px;
   text-align: center;
+}
+
+jumboID {
+  margin-top: 500px;
 }
