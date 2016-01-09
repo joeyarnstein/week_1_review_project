@@ -6,19 +6,34 @@
 }
 
 
-div.col-sm-3 img {
+div.col-sm-6 img {
   display: block;
-  width: 80%;
-  margin-left: auto;
+  width: 40%;
   margin-right: auto;
   margin-top: 70px;
 }
 
-.ipsum {
+div.col-sm-3 img {
+  display: block;
+  width: 40%;
+  margin-right: auto;
+  margin-top: 70px;
+}
+
+.content {
   padding: 10px 30px;
 }
 
 .poop {
+  padding-top: 60px;
+  background-image: url("light-blue-abstract.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  font-family: cursive;
+  text-align: center;
+}
+
+.poop2 {
   padding-top: 60px;
   background-image: url("snare_right.png");
   background-repeat: no-repeat;
@@ -39,5 +54,5 @@ body {
 }
 
 .button {
-  text-align: center;
+
 }
